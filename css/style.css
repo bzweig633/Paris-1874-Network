@@ -92,6 +92,7 @@ color: #FFF;
 
 #attributepane .text {
 	height:100%;
+	width: 240px;
 }
 
 #attributepane .headertext {
